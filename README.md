@@ -5,15 +5,14 @@ This repository contains implementations of various unsupervised machine learnin
 
 The repository is organized into different subfolders, each dedicated to a specific algorithm or technique.
 
-- **`dimensionality-reduction/`**: Contains projects related to reducing the dimensionality of data, such as PCA.
+- [**`dimensionality-reduction/`**](https://github.com/jessherna/unsupervised-learning/tree/master/dimensionality-reduction/pca): Contains projects related to reducing the dimensionality of data, such as PCA.
 
 ## Projects
 
 ### 1. Dimensionality Reduction
 This section includes projects that focus on reducing the dimensionality of datasets while retaining as much important information as possible. 
 - **PCA (Principal Component Analysis)**: 
-    - `PCA_MNIST.ipynb`: Applies PCA to the MNIST dataset to reduce its dimensions and visualize the most significant components.
-    - [More Info](dimensionality-reduction/pca/README.md)
+    - []`PCA_MNIST.ipynb`](https://github.com/jessherna/unsupervised-learning/blob/master/dimensionality-reduction/pca/PCA_MNIST.ipynb): Applies PCA to the MNIST dataset to reduce its dimensions and visualize the most significant components.
 
 
 ## License
