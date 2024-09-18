@@ -13,7 +13,7 @@ The repository is organized into different subfolders, each dedicated to a speci
 This section includes projects that focus on reducing the dimensionality of datasets while retaining as much important information as possible. 
 - **PCA (Principal Component Analysis)**: 
     - [`PCA_MNIST.ipynb`](https://github.com/jessherna/unsupervised-learning/blob/master/dimensionality-reduction/pca/PCA_MNIST.ipynb): Applies PCA to the MNIST dataset to reduce its dimensions and visualize the most significant components.
-    - [`PCA_SwissRoll.ipynb`](https://github.com/jessherna/unsupervised-learning/blob/master/dimensionality-reduction/pca/PCA_SwissRoll.ipynb): Applies kernel trick to PCA to the Swiss Roll dataset to perform complex nonlinear projections.
+    - [`PCA_SwissRoll.ipynb`](https://github.com/jessherna/unsupervised-learning/blob/master/dimensionality-reduction/pca/PCA_SwissRoll.ipynb): Applies kernel trick to PCA using the Swiss Roll dataset to perform complex nonlinear projections.
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
