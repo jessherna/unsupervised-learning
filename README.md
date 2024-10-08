@@ -6,7 +6,7 @@ This repository contains implementations of various unsupervised machine learnin
 The repository is organized into different subfolders, each dedicated to a specific algorithm or technique.
 
 - [**`dimensionality-reduction/`**](https://github.com/jessherna/unsupervised-learning/tree/master/dimensionality-reduction/pca): Contains projects related to reducing the dimensionality of data, such as PCA.
-- [**`clustering/`**](https://github.com/jessherna/unsupervised-learning/tree/master/clustering): Contains projects related to clustering of data, such as KMeans, DBSCAN, Hierarchical Clustering, and Gaussian Distribution.
+- [**`clustering/`**](https://github.com/jessherna/unsupervised-learning/tree/master/clustering): Contains projects related to clustering of data, such as KMeans, DBSCAN, Hierarchical Clustering, and Gaussian Mixture Models.
 
 ## Projects
 
