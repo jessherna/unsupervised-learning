@@ -17,7 +17,9 @@ This section includes projects that focus on reducing the dimensionality of data
 
 ### 2. Clustering
 This section includes projects that focus on techniques on clustering.
+- **KMeans and DBSCAN**: 
     - [`KMeans_DBSCAN.ipynb`](https://github.com/jessherna/unsupervised-learning/blob/master/clustering/KMeans_DBSCAN.ipynb): Applies Kmeans and DBSCAN to the Olivetti Faces dataset to determine the clusters.
+- **Hierarchical Clustering**: 
     - [`Hierarchical_Clustering.ipynb`](https://github.com/jessherna/unsupervised-learning/blob/master/clustering/Hierarchical_Clustering.ipynb): Applies Hierarchical Clustering to the Olivetti Faces dataset to determine the clusters.
 
 
